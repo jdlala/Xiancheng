@@ -1,5 +1,6 @@
 package pro_cun;
 
+
 public class Produce implements Runnable {
     private ShareRecrouce recrouce;
 

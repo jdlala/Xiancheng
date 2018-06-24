@@ -1,5 +1,6 @@
 package pro_cun;
 
+
 public class MainClass {
 
     public static void main(String [] args) {
